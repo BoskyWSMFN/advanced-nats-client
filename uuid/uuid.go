@@ -4,7 +4,7 @@ import (
 	"github.com/gofrs/uuid"
 	"go.uber.org/zap"
 
-	"github.com/imperiuse/advanced-nats-client/v1/logger"
+	"github.com/imperiuse/advanced-nats-client/v2/logger"
 )
 
 type (

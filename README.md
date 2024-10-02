@@ -1,7 +1,7 @@
 # Advanced Nats Streaming
 
 ![img](https://img.shields.io/badge/License-EPL_2.0-blue.svg) ![img](https://img.shields.io/badge/code--coverage-70%25-green)
-[![Actions Status](https://github.com/imperiuse/advanced-nats-client/v1/workflows/Test/badge.svg)](https://github.com/imperiuse/advanced-nats-client/v1/actions)
+[![Actions Status](https://github.com/imperiuse/advanced-nats-client/v2/workflows/Test/badge.svg)](https://github.com/imperiuse/advanced-nats-client/v2/actions)
 
 An advanced NATS and NATS-Streaming client library based on the nats.go and stun.go projects.
 

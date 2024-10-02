@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/imperiuse/advanced-nats-client/v1/nats/mocks"
-	m "github.com/imperiuse/advanced-nats-client/v1/serializable/mock"
+	"github.com/imperiuse/advanced-nats-client/v2/nats/mocks"
+	m "github.com/imperiuse/advanced-nats-client/v2/serializable/mock"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"

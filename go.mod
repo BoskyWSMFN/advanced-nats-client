@@ -1,4 +1,4 @@
-module github.com/imperiuse/advanced-nats-client/v1
+module github.com/imperiuse/advanced-nats-client/v2
 
 go 1.23
 

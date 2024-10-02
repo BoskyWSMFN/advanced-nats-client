@@ -12,10 +12,10 @@ import (
 	"github.com/nats-io/stan.go"
 	"go.uber.org/zap"
 
-	"github.com/imperiuse/advanced-nats-client/v1/logger"
-	nc "github.com/imperiuse/advanced-nats-client/v1/nats"
-	"github.com/imperiuse/advanced-nats-client/v1/serializable"
-	"github.com/imperiuse/advanced-nats-client/v1/uuid"
+	"github.com/imperiuse/advanced-nats-client/v2/logger"
+	nc "github.com/imperiuse/advanced-nats-client/v2/nats"
+	"github.com/imperiuse/advanced-nats-client/v2/serializable"
+	"github.com/imperiuse/advanced-nats-client/v2/uuid"
 )
 
 // AdvancedNatsClient - advance nats / nats streaming client.

@@ -10,8 +10,8 @@ import (
 	"github.com/nats-io/nats.go"
 	"go.uber.org/zap"
 
-	"github.com/imperiuse/advanced-nats-client/v1/logger"
-	"github.com/imperiuse/advanced-nats-client/v1/serializable"
+	"github.com/imperiuse/advanced-nats-client/v2/logger"
+	"github.com/imperiuse/advanced-nats-client/v2/serializable"
 )
 
 const (
